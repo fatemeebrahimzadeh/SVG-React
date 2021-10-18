@@ -1,0 +1,9 @@
+.ActionBar {
+    display: flex;
+    justify-content: space-around;
+}
+
+.ActionBar__btn {
+    margin: 5px;
+    padding: 5px;
+}
